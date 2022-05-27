@@ -1,0 +1,15 @@
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\bin\Debug\net6.0\MelissaHunter_ABCNumbers.exe
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\bin\Debug\net6.0\MelissaHunter_ABCNumbers.deps.json
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\bin\Debug\net6.0\MelissaHunter_ABCNumbers.runtimeconfig.json
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\bin\Debug\net6.0\MelissaHunter_ABCNumbers.dll
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\bin\Debug\net6.0\MelissaHunter_ABCNumbers.pdb
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.AssemblyInfoInputs.cache
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.AssemblyInfo.cs
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.dll
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\refint\MelissaHunter_ABCNumbers.dll
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.pdb
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\MelissaHunter_ABCNumbers.genruntimeconfig.cache
+C:\Users\Mel\source\repos\MelissaHunter_ABCNumbers\MelissaHunter_ABCNumbers\obj\Debug\net6.0\ref\MelissaHunter_ABCNumbers.dll
